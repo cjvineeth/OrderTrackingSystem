@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OrderTrackingSystem.iml" filepath="$PROJECT_DIR$/OrderTrackingSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pagerlibrary/pagerlibrary.iml" filepath="$PROJECT_DIR$/pagerlibrary/pagerlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zBarFragmentLibrary/zBarFragmentLibrary.iml" filepath="$PROJECT_DIR$/zBarFragmentLibrary/zBarFragmentLibrary.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">Order Tracking System</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">User ID</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+
+    <string name="car_producer_image_content_description">Car Producer</string>
+
+
+
+
+        <string name="hello">Hello World, AndroidViewPagerActivity!</string>
+
+    <string name="action_add_favourite">Add to Cart</string>
+    <string name="action_play_next">Play Next</string>
+    <string name="backdrop_title">LOVE MUSIC</string>
+    <string name="backdrop_subtitle">This season top 20 albums</string>
+
+
+
+
+    <string name="scan_label">Tap screen to start scanning</string>
+    <string name="scanning_label">Scanning for barcodes ...</string>
+    <string name="scan_result_label">Scan result = </string>
+
+
+
+
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="low_storage_error">Face detector dependencies cannot be downloaded due to low device storage</string>
+    <string name="title_activity_main">Barcode Reader Sample</string>
+    <string name="barcode_header">Click &quot;Read Barcode&quot; to read a barcode</string>
+    <string name="read_barcode">Read Barcode</string>
+    <string name="auto_focus">Auto Focus</string>
+    <string name="use_flash">Use Flash</string>
+    <string name="barcode_success">Barcode read successfully</string>
+    <string name="barcode_failure">No barcode captured</string>
+    <string name="barcode_error">"Error reading barcode: %1$s"</string>
+
+
+
+
+    <string-array name="colors" translatable="false">
+        <item>#99cc00</item>
+        <item>#33b5e5</item>
+        <item>#0099cc</item>
+        <item>#547bca</item>
+        <item>#aa66cc</item>
+        <item>#9933cc</item>
+        <item>#669900</item>
+        <item>#aeb857</item>
+        <item>#cc0000</item>
+        <item>#df5948</item>
+        <item>#ff4444</item>
+        <item>#ae6b23</item>
+        <item>#ff8800</item>
+        <item>#e5ae4f</item>
+        <item>#ffbb33</item>
+        <item>#cccccc</item>
+        <item>#888888</item>
+    </string-array>
+    <string-array name="names" translatable="false">
+        <item>Aaron Hoe</item>
+        <item>Barney Eskin</item>
+        <item>Calvin Zinnes</item>
+        <item>Dale Perella</item>
+        <item>Earl Bruice</item>
+        <item>Fabian Oleski</item>
+        <item>Gabriel Corrado</item>
+        <item>Hector Gamblin</item>
+        <item>Irwin Barger</item>
+        <item>Jack Gonzalez</item>
+        <item>Karl Boari</item>
+        <item>Lacy Patton</item>
+        <item>Marvin Berkowitz</item>
+        <item>Nathan Saar</item>
+        <item>Omar Bogorad</item>
+        <item>Pablo Prezelin</item>
+        <item>Quentin Felix</item>
+        <item>Rafael Engell</item>
+        <item>Seymour Leitman</item>
+        <item>Ted Dickson</item>
+        <item>Ulysses Rowse</item>
+        <item>Vincenzo Larkin</item>
+        <item>Wesley Baltz</item>
+        <item>Xavier Carper</item>
+        <item>Yong Davenport</item>
+        <item>Zack Kent</item>
+    </string-array>
+
+
+</resources>

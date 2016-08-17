@@ -1,0 +1,2 @@
+include ':app', ':pagerlibrary'
+include ':zBarFragmentLibrary'

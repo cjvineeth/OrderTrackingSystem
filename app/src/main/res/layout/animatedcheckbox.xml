@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+
+    <AnimatedCheckBox.AnimCheckBox
+        android:layout_gravity="center_horizontal"
+        android:layout_width="80dp"
+        android:padding="4dp"
+        android:layout_height="wrap_content"
+        app:stroke_width="4dp"
+        android:id="@+id/anim_check"
+        app:stroke_color="#2196F3"
+        app:circle_color="#1976D2"/>
+
+
+
+</LinearLayout>
